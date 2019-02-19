@@ -18,7 +18,8 @@ def main():
 
     # Print body from server
     print('BODY ----------')
-    print(request.read())
+    # need to decode to utf8 string as body (by default) is in raw bytes
+    print(request.read().decode('utf-8'))
     print('-----------------')
 
 
