@@ -16,6 +16,7 @@
 |-------------------|:---------------------:|
 |dict   	        |  object              	|
 |list,tuple	        |  array   	            |
+|str    	        |  string  	            |
 |int,float etc   	|  number           	|
 |True               |  true             	|
 |False          	|  false             	|
@@ -28,6 +29,7 @@
 |-------------------|:---------------------:|
 |object   	        |  dict              	|
 |array	            |  list   	            |
+|string	            |  str   	            |
 |integer number    	|  int               	|
 |floating number    |  float               	|
 |true               |  True             	|
