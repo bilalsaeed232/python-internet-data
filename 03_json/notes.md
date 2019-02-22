@@ -36,3 +36,4 @@
 |false          	|  False             	|
 |null          	    |  None             	|
 
+*Note: It's not possible to tell the different between list and tuple from json by the parse*
